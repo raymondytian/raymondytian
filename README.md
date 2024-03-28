@@ -1,6 +1,6 @@
 hi i'm raymond
 
-undergraduate CS student & researcher @ UW--Madison
+undergraduate cs student & researcher @ uw--madison
 
 interests: ai, hpc
 
