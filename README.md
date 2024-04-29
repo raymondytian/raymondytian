@@ -1,8 +1,10 @@
 hi i'm raymond
 
-undergraduate cs student & researcher @ uw--madison
+cs @ uw–madison
 
 incoming swe intern @ rivos
+
+ml contracting work for unicorns
 
 interests: ai, hpc, startups
 
