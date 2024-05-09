@@ -1,10 +1,6 @@
-hi i'm raymond
+Computer Science & Mathematics @ UW-Madison
 
-cs @ uw–madison
-
-incoming swe intern @ rivos
-
-ml contracting work for unicorns
+Software Engineering Intern @ Rivos
 
 interests: ai, hpc, startups
 
