@@ -1,5 +1,5 @@
-cs: UW-Madison
+cs: uw-madison
 
-swe intern: Rivos
+swe intern: rivos
 
 website: https://raymondtian.me/
